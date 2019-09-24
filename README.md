@@ -10,5 +10,6 @@ To use Shino you need to follow this steps.
 2. Open command prompt and type this:
   -`pip install -r requirements.txt` or  `pip3 install -r requirements.txt`
 3. Go to Discord Developer Portal : [Discord Developer Portal](https://discordapp.com/developers/applications/) 
-  - Click `New Application` ![NewApp](https://i.imgur.com/FJzDUcH.png)
+  - Click `New Application` 
+  ![NewApp](https://i.imgur.com/J3y4cSf.png)
   
