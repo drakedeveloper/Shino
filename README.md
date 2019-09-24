@@ -24,7 +24,7 @@ To use Shino you need to follow this steps.
 7. Invite the bot to your server.
   - Go to Discord Developer Portal : [Discord Developer Portal](https://discordapp.com/developers/applications/)
   - Switch yo your app, general information then copy client id.
-  - Replace `[client_id]` with your client id : https://discordapp.com/oauth2/authorize?client_id=*[client_id]*&permissions=8&scope=bot 
+  - Replace `[client_id]` with your client id : https://discordapp.com/oauth2/authorize?client_id=[client_id]&permissions=8&scope=bot 
 ** Notice **: you need to make sure that the bot is running before inviting it to your server, if you invited it first, kick it, run it then invite it back.  
 
 ### Shino's System
