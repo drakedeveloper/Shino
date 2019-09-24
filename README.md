@@ -15,7 +15,7 @@ To use Shino you need to follow this steps.
   - Choose a name and a photo...
   - Go to `Bot` <br />
     ![NewApp](https://i.imgur.com/xodpdZM.png)
-  - Add Bot.  
+  - Add Bot. <br /> 
   - Go to *Token* and click `Copy`
     ![NewApp](https://i.imgur.com/GyvGg8S.png)
 4. Now go to Shino folder and open `token.txt`, and past the token.
