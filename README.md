@@ -11,5 +11,8 @@ To use Shino you need to follow this steps.
   -`pip install -r requirements.txt` or  `pip3 install -r requirements.txt`
 3. Go to Discord Developer Portal : [Discord Developer Portal](https://discordapp.com/developers/applications/) 
   - Click `New Application`<br />
-  ![NewApp](https://i.imgur.com/J3y4cSf.png)
-  
+    *![NewApp](https://i.imgur.com/J3y4cSf.png)
+  - Choose a name and a photo...
+  - Go to `Bot` <br />
+    *![NewApp](https://i.imgur.com/xodpdZM.png)
+    
