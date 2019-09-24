@@ -19,14 +19,31 @@ To use Shino you need to follow this steps.
   - Go to *Token* and click `Copy` <br />
     ![NewApp](https://i.imgur.com/GyvGg8S.png)
 4. Now go to Shino folder and open `token.txt`, and past the token.
-5. Invite the bot to your server.
+5. Open command prompt, move to Shino directory then type : `python main.py`
+6. The bot should run, if you need any help please contact me on discord: Drake.#1112
+7. Invite the bot to your server.
   - Go to Discord Developer Portal : [Discord Developer Portal](https://discordapp.com/developers/applications/)
   - Switch yo your app, general information then copy client id.
   - Replace `[client_id]` with your client id : https://discordapp.com/oauth2/authorize?client_id=*[client_id]*&permissions=8&scope=bot 
-6. Open command prompt, move to Shino directory then type : `python main.py`
-7. The bot should run, if you need any help please contact me on discord: Drake.#1112
+** Notice **: you need to make sure that the bot is running before inviting it to your server, if you invited it first, kick it, run it then invite it back.  
 
-### Shino's Commands
+### Shino's System
+
+#### System explained : 
+After joining the server, the bot needs to make some configuration, necessary roles, categories... and in order to do that after joining the server you need to do : `?config`. After that the bot should run without problems.
+##### Commands:
+1. **?config** : Makes necessary configuration for the bot.
+2. **?md** : Open a modmail request.
+3. **?help [optional: md, config]** Asks for help in DMS.
+##### Prefix:
+To change the bot's prefix you need to go to Shino's directory then to main.py, open it with a text editor and change:
+```python
+prefix = '?'
+```
+with your wanted prefix, and make sure you don't remove the "".
+
+
+
 
 
 
