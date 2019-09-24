@@ -16,7 +16,7 @@ To use Shino you need to follow this steps.
   - Go to `Bot` <br />
     ![NewApp](https://i.imgur.com/xodpdZM.png)
   - Add Bot. <br /> 
-  - Go to *Token* and click `Copy`
+  - Go to *Token* and click `Copy` <br />
     ![NewApp](https://i.imgur.com/GyvGg8S.png)
 4. Now go to Shino folder and open `token.txt`, and past the token.
 5. Invite the bot to your server.
